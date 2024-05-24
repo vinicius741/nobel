@@ -1,0 +1,14 @@
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/refint/ConsoleApp.dll
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/Users/vinicusmoreira/Projects/nobel/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll
